@@ -1,9 +1,37 @@
 table{
-	font-size:45px;
-	background-color:853400;
-	
+     text-align:center;
+	 background:#CB0A00;
+	 font-size:45px;
+	 color:#616065;
+	 margin:auto;
 }
+
 h1{
-   margin:auto; 
-   width:1500%;
-   padding:10%
+  font-size:66px;
+  color:#3B3B39;
+  
+}
+
+body{
+   background:#2670D1;
+}
+
+
+h2{
+  font-size:70px;
+    color:#3B3B39;
+}
+h3{
+  font-size:55px;
+  color:#3B3B39;
+}
+
+p{
+  font-size:35px;
+  color:#CB0A00;
+}
+
+ul{
+  color:#3B3B39;
+  font-size:33px;
+}
